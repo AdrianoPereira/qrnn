@@ -19,7 +19,7 @@ pip install typhon
 ##
 
 ### Table of Content
-- [Radar reflectivity forecasting](https://github.com/AdrianoPereira/qrnn/notebooks/qrnn_reflectivity_forecasting.ipynb)
+- [Radar reflectivity forecasting](https://github.com/AdrianoPereira/qrnn/blob/master/notebooks/qrnn_reflectivity_forecasting.ipynb)
 ##
 
 
